@@ -1,5 +1,7 @@
 # springboot-lava
 
+**SpringBoot** 项目开发脚手架。
+
 ## 0.0.1
 
 - 初始化 SpringBoot 项目配置。
