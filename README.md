@@ -2,7 +2,7 @@
 
 **SpringBoot** 项目开发脚手架。
 
-## 0.0.1
+## 0.0.2
 
 - 初始化 Maven 项目配置。
 - 新增子模块 demo，创建示例 io.github.javapark.springbootlava.demo.HelloWorld，打开代码文件，验证示例是否可以正常运行。
